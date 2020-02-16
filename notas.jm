@@ -1,0 +1,15 @@
+# Regex
+
+web to debugging regex ---> https://jex.im/
+														https://regexper.com/
+														https://www.debuggex.com/
+
+
+. --->  indicate any character
+				eg. if i want to get a lines with 3 characters: ^...$  or .{3}
+\w ---> indicate  any  [A-Z] character
+\d ---> indicate any [0-9] characters
+				eg. Search 3 digits together  \d\d\d
+				eg. Search only 3 or 4 number [34]
+				eg. Search numbers Between 4 to 9 [4-9]
+\s ---> indicate any blank space
